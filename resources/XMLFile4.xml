@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<folder name="calculations">
+  <folder name="calculation">
+    <str name="uid" value="ggmr14mc1li35n4nr06puuunskq0yo54" />
+    <str name="operand" value="add" />
+    <int name="mod" value="15" />
+  </folder>
+  <folder name="calculation">
+    <str name="uid" value="47zx0d2nmw42osmeen88evtmneacbnbm" />
+    <str value="multiply" />
+    <int name="mod" value="2" />
+  </folder>
+  <folder name="calculation">
+    <str name="uid" value="02e5ab2a1ef4e3f183be2e5104ce7a33" />
+    <str name="operand" value="divide" />
+    <int name="mod" value="3" />
+  </folder>
+  <folder name="calculation">
+    <str name="uid" value="eef9edde7f8e7dbeabc12f72e1f35e99" />
+    <str name="operand" value="subtract" />
+    <int name="mod" value="8" />
+  </folder>
+</folder>
